@@ -26,4 +26,4 @@ El script incluye 15 ejercicios clave, entre ellos:
 * `dvdrental_analysis.sql`: Archivo principal que contiene todas las consultas documentadas.
 
 ---
-*Desarrollado con rigor analítico para la gestión eficiente de bases de datos. Subiendo de nivel un query a la vez.* 🚀
+*Desarrollado con rigor analítico para la gestión eficiente de bases de datos.* 🚀
