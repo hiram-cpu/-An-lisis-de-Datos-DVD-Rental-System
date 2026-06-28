@@ -23,7 +23,7 @@ El script incluye 15 ejercicios clave, entre ellos:
 4. **Detección de Inactividad:** Uso de `LEFT JOIN` para identificar películas y clientes con cero actividad.
 
 ## 📂 Estructura del Repositorio
-* `dvdrental_analysis.sql`: Archivo principal que contiene todas las consultas documentadas.
+* `[dvdrental_analysis.sql](https://drive.google.com/drive/folders/1-DrU_G4MVGA1Q-2DQLbXSfNQONfcK3Nr?usp=sharing)`: Archivo principal que contiene todas las consultas documentadas.
 
 ---
 *Desarrollado con rigor analítico para la gestión eficiente de bases de datos.* 🚀
